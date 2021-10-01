@@ -1,0 +1,342 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+			GTA VICE CITY STATS
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+LAST MISSION PASSED: Boomshine Saigon
+DATE: 06/04/17
+
+
+Criminal rating:  Total Liar (-9416)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Percentage completed
+40%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mission attempts
+90
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Playing Time
+ 12:04
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Days passed in game
+61
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Safehouse visits
+43
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Rampages passed
+  0 out of 35
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hidden Packages found
+  5 out of 100
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People you've wasted
+1663
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People wasted by others
+291
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Road Vehicles destroyed
+753
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Boats destroyed
+27
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Planes & Helicopters destroyed
+16
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tires popped with gunfire
+106
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars attained
+482
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars evaded
+248
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Times busted
+8
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hospital visits
+32
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of headshots
+17
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Daily police spending
+$74588.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least favorite gang
+
+
+Streetwannabe's
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gang members wasted
+324
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals wasted
+161
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Kgs of explosives used
+29
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets fired
+21711
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets that hit
+7516
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Accuracy
+34%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled on foot (miles)
+31.48
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by car (miles)
+283.62
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by bike (miles)
+31.69
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by boat (miles)
+6.48
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by golf cart (miles)
+1.35
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Dist. traveled by helicopter (miles)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total distance traveled (miles)
+354.61
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump dist. (m)
+73.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump height (m)
+11.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump flips
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Unique Jumps completed
+  4 out of 36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump rotation
+527º
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best INSANE stunt so far
+
+
+Double insane stunt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels time (secs)
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels distance (m)
+40.58
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals killed on Vigilante Mission
+125
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Vigilante Mission level
+9
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Passengers dropped off
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cash made in taxi
+$0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People saved in an Ambulance
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Paramedic Mission level
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total fires extinguished
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fire Truck Mission level 
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Stores Knocked Off
+  1 out of 15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Assassination Contracts Completed
+  5 out of 5
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+'Ice Cream' Sold
+131
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best Percentage of hits for Shooter
+68
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Alloy Wheels Of Steel'
+ 1:42
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'The Driver'
+ 2:12
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'V.C. Endurance'
+ 5:49
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest score for Shooter
+70
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of drug deals made
+66
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Flight hours
+ 0:00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fishes Fed
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Most Favorite Radio Station
+
+
+EMOTION 98.3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least Favorite Radio Station
+
+
+WAVE 103
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sprayings
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Weapon Budget
+$0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fashion Budget
+$300.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Budget
+$393500.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Auto Repair and Painting Budget
+$100.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Destroyed
+$2872044.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Owned
+11
+
+The Malibu
+
+Print Works
+
+Film Studio
+
+Ice Cream Factory
+
+Car Showroom
+
+Taxi Company
+
+Boatyard
+
+3321 Vice Point
+
+Links View Apartment
+
+El Swanko Casa
+
+Ocean Heights Apartment
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest media attention
+176
+
+Vice Courier Page 2
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
